@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anupyadavrpvv@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1xbvCRpl14XMLQ4AylYDTvOKQdpRPbdUe/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1owjk8S-sqVCvXt1M-8cVjujBUpAk3ati/view?usp=share_link)
 
 - ⚡ Fun fact **I love to watch 👺anime and listen to 🎵music**
 
