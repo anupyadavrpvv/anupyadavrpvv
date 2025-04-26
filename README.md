@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/_anupyadav" target="blank"><img src="https://img.shields.io/twitter/follow/_anupyadav?logo=twitter&style=for-the-badge" alt="_anupyadav" /></a> </p>
 
-- 🔭 I’m currently working on **shopme.com an e-commerce application**
+- 🔭 I’m currently working on a project to **achieve 5k TPS SMS sent to end consumer**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **projects where my skills can be useful**
 
 - 💬 Ask me about **Java and Spring Boot**
 
 - 📫 How to reach me **anupyadavrpvv@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1xNdcPdxz5v50_lI4YcNu1CsrZKqbtXFX/view?usp=sharing)
 
 - ⚡ Fun fact **I love to watch 👺anime and listen to 🎵music**
 
